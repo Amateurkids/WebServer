@@ -1,13 +1,13 @@
-#Profie
+##Profie
 Nama : Faris Nauval Marzuqi
 Nim : 22.83.0801
 Kelas : Os Server 2
 
 
-# WebServer
+## WebServer
 Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data. Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). Selanjutnya ia akan mengirimkan respon atas permintaan tersebut kepada client dalam bentuk halaman web
 
-#OS
+##OS
 Ubuntu server 20.04
 
 Service yang digunakan sementara ini 
@@ -18,7 +18,7 @@ Service yang digunakan sementara ini
 5. Php
 
 
-#Update Perkembangan
+##Update Perkembangan
 1. 18 Oktober 2023 -Install Ubuntu Server 20.04
 2. 18 Oktober 2023 -Install Ssh
 3. 18 Oktober 2023 -Install Apache
@@ -27,10 +27,10 @@ Service yang digunakan sementara ini
 6. 18 Oktober 2023 -Install Mysql
 
 
-#Progres saat ini
+##Progres saat ini
 Untuk saat ini Sedang ada Problem pada progres saya dikarenakan perintah sudo saya trouble. Dan saya eksplore belum juga teratasi masalahnya, jadi kemungkinan nanti akan saya ulang untuk percobaan pembuatan fial project ini. Dan mungkin nanti kedepannya akan sedikit berbeda
 
-#Petuah
+##Petuah
 Aku adalah Yin dan tidak akan pernah berubah apapun yang terjadi. KARENA APA? KARENA AKU ADALAH WUJUD DARI CAHAYA HEHE
 
 
