@@ -1,6 +1,8 @@
 ## Profie
 Nama : Faris Nauval Marzuqi
+
 Nim : 22.83.0801
+
 Kelas : Os Server 2
 
 
