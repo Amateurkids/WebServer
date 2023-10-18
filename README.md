@@ -10,7 +10,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 ## OS
 Ubuntu server 20.04
 
-Service yang digunakan sementara ini 
+## Service yang digunakan sementara ini 
 1. Ssh
 2. Apache2
 3. Mariadb 
