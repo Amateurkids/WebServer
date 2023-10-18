@@ -32,6 +32,10 @@ Ubuntu server 20.04
 ## Progres saat ini
 Untuk saat ini Sedang ada Problem pada progres saya dikarenakan perintah sudo saya trouble. Dan saya eksplore belum juga teratasi masalahnya, jadi kemungkinan nanti akan saya ulang untuk percobaan pembuatan fial project ini. Dan mungkin nanti kedepannya akan sedikit berbeda
 
+```shell
+sudo apt install apache2
+```
+
 ## Petuah
 Aku adalah Yin dan tidak akan pernah berubah apapun yang terjadi. KARENA APA? KARENA AKU ADALAH WUJUD DARI CAHAYA HEHE
 
