@@ -10,7 +10,7 @@ Kelas : Os Server 2
 Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data. Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). Selanjutnya ia akan mengirimkan respon atas permintaan tersebut kepada client dalam bentuk halaman web
 
 ## OS
-Ubuntu server 20.04
+Ubuntu server 22.04
 
 ## Service and Tools 
 1. Ssh
