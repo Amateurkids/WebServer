@@ -12,25 +12,24 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 ## OS
 Ubuntu server 20.04
 
-## Service yang digunakan sementara ini 
+## Service and Tools 
 1. Ssh
 2. Apache2
-3. Mariadb 
-4. Mysql
-5. Php
+3. WinSCP
+4. Ubuntu Server 22.04 LTS
+5. Visual Studio Code
+6. Virtual Box
 
 
-## Update Perkembangan
-1. 18 Oktober 2023 -Install Ubuntu Server 20.04
-2. 18 Oktober 2023 -Install Ssh
-3. 18 Oktober 2023 -Install Apache
-4. 18 Oktober 2023 -Install Mariadb server
-5. 18 Oktober 2023 -Install Php
-6. 18 Oktober 2023 -Install Mysql
+## Install
+1. 16 Desember 2023 -Install Ubuntu Server 22.04
+2. 16 Desember 2023 -Install Apache
+3. 12 Desember 2023 -Coding Web Portofolio
+4. 16 Desember 2023 -Instal WinSCP
 
 
-## Progres saat ini
-Untuk saat ini Sedang ada Problem pada progres saya dikarenakan perintah sudo saya trouble. Dan saya eksplore belum juga teratasi masalahnya, jadi kemungkinan nanti akan saya ulang untuk percobaan pembuatan fial project ini. Dan mungkin nanti kedepannya akan sedikit berbeda
+## Project
+Kali ini saya membuat Web Server yaitu terkait dengan Web Portofolio saya Pribadi. Saya mengambil ini karena bagi saya masih lebih mudah untuk dikuasai dan di pelajari. UNutk saat ini masih banyak kekurangan terkait website portofolio saya namun kedepannya akan saya kembangkan lagi dan benahi, serta rencana kedepannya akan saya publish untuk Web Portofolio saya.
 
 
 ## Petuah
